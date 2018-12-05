@@ -1,3 +1,4 @@
+![](/Flash%20Chat/Images.xcassets/AppIcon.appiconset/Icon-40@2x.png)
 # Flash-Chat
 
 ## Podfile Configuration
