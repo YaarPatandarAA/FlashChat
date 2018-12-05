@@ -21,7 +21,7 @@ One of the most fundamental component of modern iOS apps is the Table View. Tabl
 Flash Chat is an internet based messaging app similar to WhatsApp. We will be using a service called Firebase as a backend data server to store and retrieve our messages from the cloud.
 
 ## Finished App
-
+![](ChatAppTest_480p.gif)
 
 ## What is learned
 
